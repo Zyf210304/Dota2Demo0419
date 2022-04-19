@@ -6,7 +6,7 @@ target 'Dota2Demo0419' do
   use_frameworks!
 
 pod ‘SDWebImageSwiftUI’, ‘~> 2.0.2’
-
+pod 'lottie-ios'
   # Pods for Dota2Demo0419
 
 end
